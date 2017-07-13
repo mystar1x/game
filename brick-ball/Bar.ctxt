@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ checkKeypress()
+comment0.text=\r\n\ moves\ 5\ to\ the\ left\ if\ the\ key\ is\ pressed,\ and\ 5\ to\ the\ right\ if\ the\ right\ key\ is\ pressed\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\ncalls\ key\ press\r\n
+numComments=2

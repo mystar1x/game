@@ -1,0 +1,23 @@
+Assets for the Shooting Gallery game for the C2Academy
+
+* Graphics :
+Kenney.nl Shooting gallery assets - http://kenney.nl/assets/shooting-gallery
+
+I resized some of the elements from Kenney's assets pack to fit the power of two requirement.
+I also made some points and font out of akaDylan's font on Dafont.com - http://www.dafont.com/fr/search.php?q=akadylan
+
+using GIMP - http://www.gimp.org/
+and blackhornet's SpriteFont generator - https://www.scirra.com/forum/viewtopic.php?t=86546&start=0
+
+* Sounds :
+http://www.freesound.org/people/deathnsorrow/sounds/149177/?page=1#comment Reload sound 
+Was used to make the "Reload" sound
+http://www.freesound.org/people/coolguy244e/sounds/266916/ Gunshot
+Was used as the "Shot" sound
+http://www.freesound.org/people/vumseplutten1709/sounds/238923/ Airsoft shot
+was used as the "TargetHit" sound
+
+I did record the "Bullseye" sound.
+
+* Music :
+Matt Oglesby 3 - From the Scirra free asset bundle - https://www.scirra.com/freebundle.zip

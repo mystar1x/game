@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BallWorld()
+comment0.text=\r\n\ creates\ the\ background\ and\ the\ three\ balls\ at\ random\ locations\r\n
+comment1.params=
+comment1.target=void\ prepare()
+comment1.text=\r\n\ adds\ the\ bricks,\ ball,\ and\ bar\ to\ the\ world\r\n
+numComments=2

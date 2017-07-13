@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PersistableFontDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Letterset>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789.,;:?!-_~#"'&amp;()[]|`\/@°+=*$£€&lt;&gt;%</Letterset>
+  <AdjustHeight>0</AdjustHeight>
+  <AdjustWidth>0</AdjustWidth>
+  <SampleText>The quick brown fox jumped over the lazy dog.</SampleText>
+  <ShiftHorz>0</ShiftHorz>
+  <ShowGrid>true</ShowGrid>
+  <ShowBoundary>false</ShowBoundary>
+  <Size>26</Size>
+  <StrikeOut>false</StrikeOut>
+  <Underline>false</Underline>
+  <IsFill>true</IsFill>
+  <IsOutlineOne>true</IsOutlineOne>
+  <IsOutlineTwo>true</IsOutlineTwo>
+  <IsShadow>false</IsShadow>
+  <OutlineOneWidth>16</OutlineOneWidth>
+  <OutlineTwoWidth>2</OutlineTwoWidth>
+  <ShadowWidth>4</ShadowWidth>
+  <ShadowOffsetX>0</ShadowOffsetX>
+  <ShadowOffsetY>2</ShadowOffsetY>
+  <FontStyleDisplayName>Regular</FontStyleDisplayName>
+  <Height>47</Height>
+  <Width>55</Width>
+  <FontFamilyName>akaDylan Plain</FontFamilyName>
+  <FontStyleName>Normal</FontStyleName>
+  <FontStretchName>Normal</FontStretchName>
+  <FontWeightName>Normal</FontWeightName>
+  <FillColourName>#FFFFFFF0</FillColourName>
+  <OutlineOneColourName>#FFB8860B</OutlineOneColourName>
+  <OutlineTwoColourName>#FF000000</OutlineTwoColourName>
+  <ShadowColourName>#80808080</ShadowColourName>
+  <SampleBackgroundColourName>#FFFFFFFF</SampleBackgroundColourName>
+</PersistableFontDetails>

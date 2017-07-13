@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ touchEdge()
+comment0.text=\r\n\ Turns\ the\ ball\ at\ a\ random\ degree\ if\ it\ is\ at\ the\ edge\r\n
+comment1.params=
+comment1.target=void\ touchBall()
+comment1.text=\r\n\ Turns\ the\ ball\ at\ a\ random\ degree\ if\ it\ touches\ a\ brick,\ removes\ the\ brick,\ and\ adds\ one\ to\ the\ counter\r\n\ If\ the\ amount\ of\ bricks\ reaches\ 28,\ which\ is\ all\ of\ them,\ the\ scenario\ stops\r\n
+comment2.params=
+comment2.target=void\ touchBar()
+comment2.text=\r\n\ Turns\ the\ ball\ at\ a\ random\ degree\ if\ it\ touches\ the\ bar\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Moves\ the\ ball,\ checks\ if\ it\ needs\ to\ turn\ at\ all,\ and\ if\ it\ needs\ to\ remove\ a\ brick\r\n
+numComments=4

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ createufo()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ flappy.\r\n\ \r\n\ \ \ \ \r\n
+comment1.params=
+comment1.target=void\ createufo2()
+comment2.params=
+comment2.target=void\ createufo3()
+comment3.params=
+comment3.target=void\ createufo4()
+comment4.params=
+comment4.target=void\ createufo5()
+comment5.params=
+comment5.target=flappy()
+comment6.params=
+comment6.target=void\ act()
+numComments=7
