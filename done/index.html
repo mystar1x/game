@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Roam Romania</title>
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/err.css">
+		<script src="js/jquery-3.0.0.min.js"></script>
+		<script src="js/knockout-3.4.0.js"></script>
+	</head>
+	<body>
+		<div class="wrapper">
+			<div class="sidebar">
+				<div class="sidebar-show-hide" data-bind="click: $root.sidebarShowHide"> 
+				</div>
+				<div class="sidebar-top">
+					<h1>Places to visit in Romania</h1>
+					<!-- data-bind attributes follow knockout.js syntax -->
+					<form data-bind="submit: filterLocations">
+						<input type="text" placeholder="Search by typing first name in small" data-bind="value: currentFilter" valueUpdate: 'keyup'>
+					</form>
+				</div>
+				<div class="sidebar-bottom">
+					<ul data-bind="foreach: filteredLocations" class="location-list">
+						<li data-bind="text: name, click: $root.listClick" class="location-list-item"></li>
+					</ul>
+				</div>
+				
+			</div>
+			<div id="map"></div>
+			<div id="map-error" class="map-error"></div>
+		</div>
+		<script src="js/app.js"></script>
+		<script src="js/maperror.js"></script>
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAac6Ctn1gta5FzdjQNqYMeVrPFa-xwyvU&v3&callback=initMap" onerror="mapError()" async defer></script>
+	<p>Copyright © 2017-(\) By HeliumNitrogen</p>
+	</body>
+</html>
